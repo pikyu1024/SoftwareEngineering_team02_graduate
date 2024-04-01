@@ -4,19 +4,19 @@
 
 安裝visual studio 2022插件要裝.net 跟 asp.net
 
-<img src="https://course.selab.software/se-gitlab/112-softwareengineering-team02/112-course-project-team-02/-/raw/main/readmejpg/3.jpg" align="center" height="350" width="600"/>
+<img src="https://github.com/112598028/SoftwareEngineering_team02/blob/main/readmejpg/3.jpg" align="center" height="350" width="600"/>
 
 開啟112-course-project-team-02-main\backend\project-manage-system-backend 
 
-<img src="https://course.selab.software/se-gitlab/112-softwareengineering-team02/112-course-project-team-02/-/raw/main/readmejpg/4.jpg" align="center" height="350" width="800"/>
+<img src="https://github.com/112598028/SoftwareEngineering_team02/blob/main/readmejpg/4.jpg" align="center" height="350" width="800"/>
 
 並點擊
 
-<img src="https://course.selab.software/se-gitlab/112-softwareengineering-team02/112-course-project-team-02/-/raw/main/readmejpg/5.jpg" align="center" height="350" width="600"/>
+<img src="https://github.com/112598028/SoftwareEngineering_team02/blob/main/readmejpg/5.jpg" align="center" height="350" width="600"/>
 
 開啟成功
 
-<img src="https://course.selab.software/se-gitlab/112-softwareengineering-team02/112-course-project-team-02/-/raw/main/readmejpg/6.jpg" align="center" height="350" width="600"/>
+<img src="https://github.com/112598028/SoftwareEngineering_team02/blob/main/readmejpg/6.jpg" align="center" height="350" width="600"/>
 
 
 
@@ -33,6 +33,6 @@ dotnet ef database update //更新資料庫
 
 安裝 EntityFrameworkCore 8
 
-<img src="https://course.selab.software/se-gitlab/112-softwareengineering-team02/112-course-project-team-02/-/raw/main/readmejpg/11.PNG" align="center" height="350" width="1200"/>
+<img src="https://github.com/112598028/SoftwareEngineering_team02/blob/main/readmejpg/11.PNG" align="center" height="350" width="1200"/>
 
 
