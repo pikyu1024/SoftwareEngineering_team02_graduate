@@ -19,7 +19,7 @@ src
     └── index.js
 ```
 windows安裝 nvm-setup.exe : https://github.com/coreybutler/nvm-windows/releases
-<img src="https://course.selab.software/se-gitlab/112-softwareengineering-team02/112-course-project-team-02/-/raw/main/readmejpg/1.jpg" align="center" height="350" width="600"/>
+<img src="https://github.com/112598028/SoftwareEngineering_team02/blob/main/readmejpg/1.jpg" align="center" height="350" width="600"/>
 ```
 
 ```
@@ -46,8 +46,8 @@ npm run serve
 ```
 點擊至http://localhost:8080/ 看到以下頁面
 
-<img src="https://course.selab.software/se-gitlab/112-softwareengineering-team02/112-course-project-team-02/-/raw/main/readmejpg/10.jpg" align="center" height="350" width="600"/>
-<img src="https://course.selab.software/se-gitlab/112-softwareengineering-team02/112-course-project-team-02/-/raw/main/readmejpg/2.jpg" align="center" height="350" width="600"/>
+<img src="https://github.com/112598028/SoftwareEngineering_team02/blob/main/readmejpg/10.jpg" align="center" height="350" width="600"/>
+<img src="https://github.com/112598028/SoftwareEngineering_team02/blob/main/readmejpg/2.jpg" align="center" height="350" width="600"/>
 
 ### Compiles and minifies for production
 ```
@@ -80,6 +80,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 Source(https://www.youtube.com/watch?v=ndLSAD3StH8&ab_channel=RasmusWulffJensen)
 
 
-<img src="https://course.selab.software/se-gitlab/112-softwareengineering-team02/112-course-project-team-02/-/raw/main/readmejpg/7.jpg" align="center" height="350" width="600"/>
-<img src="https://course.selab.software/se-gitlab/112-softwareengineering-team02/112-course-project-team-02/-/raw/main/readmejpg/8.jpg" align="center" height="350" width="600"/>
-<img src="https://course.selab.software/se-gitlab/112-softwareengineering-team02/112-course-project-team-02/-/raw/main/readmejpg/9.jpg" align="center" height="350" width="600"/>
+<img src="https://github.com/112598028/SoftwareEngineering_team02/blob/main/readmejpg/7.jpg" align="center" height="350" width="600"/>
+<img src="https://github.com/112598028/SoftwareEngineering_team02/blob/main/readmejpg/8.jpg" align="center" height="350" width="600"/>
+<img src="https://github.com/112598028/SoftwareEngineering_team02/blob/main/readmejpg/9.jpg" align="center" height="350" width="600"/>
